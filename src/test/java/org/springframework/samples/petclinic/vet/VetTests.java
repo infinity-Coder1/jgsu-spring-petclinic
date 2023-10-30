@@ -22,7 +22,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 /**
  * @author Dave Syer
- d
  */
 class VetTests {
 
